@@ -1,6 +1,6 @@
 <?php 
 
-    $dsn = "mysql:host=localhost;dbname=techbarik";
+    $dsn = "mysql:host=localhost;dbname=sisnu";
 
     try{
         $pdo = new PDO($dsn, 'root', '');
